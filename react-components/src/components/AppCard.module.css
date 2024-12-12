@@ -1,0 +1,25 @@
+.card {
+    height:650px;
+    width:600px;
+    background-color: white;
+    /* debug */
+    /* background-color: pink; */
+}
+
+.imgContainer {
+    height:400px;
+    /* debug */
+    /* background-color: aqua; */
+}
+
+.textContainer {
+    width:90%; 
+    height:200px;
+    margin:auto;
+    /* debug */
+    /* background-color: blueviolet; */
+}
+
+h3 {
+    margin:20px 0;
+}
