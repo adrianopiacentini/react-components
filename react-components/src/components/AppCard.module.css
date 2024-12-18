@@ -2,6 +2,7 @@
     height:650px;
     width:600px;
     background-color: white;
+    margin:20px;
     /* debug */
     /* background-color: pink; */
 }
@@ -23,3 +24,32 @@
 h3 {
     margin:20px 0;
 }
+
+.css {
+    background-color:blue;
+    color:white;
+    padding:5px;
+    border-radius:10px;
+}
+
+.html {
+    background-color:red;
+    color:white;
+    padding:5px;
+    border-radius:10px;
+}
+
+.js {
+    background-color: purple;
+    color:white;
+    padding:5px;
+    border-radius:10px;
+}
+
+.php {
+    background-color: pink;
+    color:white;
+    padding:5px;
+    border-radius:10px;
+}
+
